@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "nota": "Solo huellas SHA-256 de los codigos, nunca los codigos. Quitar una linea revoca el acceso: la app vuelve a contrastar la suya en cada comprobacion de actualizaciones.",
+  "codigos": [
+    {
+      "canal": "ALPHA",
+      "huella": "a898a6cbac12ac1ff20103b5c60ee0eb42a7c707aff87dc3a7e5ff6cefae10e9",
+      "nota": "acceso propio"
+    },
+    {
+      "canal": "BETA",
+      "huella": "8c6914f9afab1ea1f853207d23393dc4bb76ddb37c0e632e9c634e7274cd8aa5",
+      "nota": "beta testers"
+    }
+  ]
+}
